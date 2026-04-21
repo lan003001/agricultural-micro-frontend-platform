@@ -1,1 +1,0 @@
-# agricultural-micro-frontend-platform
