@@ -1,0 +1,23 @@
+/**
+ * 全局样式入口（在 main.ts 中引入）
+ */
+
+html,
+body,
+#app {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family:
+    'Helvetica Neue',
+    Helvetica,
+    'PingFang SC',
+    'Hiragino Sans GB',
+    'Microsoft YaHei',
+    Arial,
+    sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}

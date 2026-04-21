@@ -1,0 +1,11 @@
+/**
+ * 全局 SCSS 变量（毕设主应用）
+ * 通过 vite.config.ts 的 additionalData 自动注入到各组件样式中
+ */
+
+/** 主题主色：农业绿 */
+$primary-color: #2d8a3e;
+/** 侧边栏背景 */
+$sidebar-bg: #1f2937;
+/** 顶栏高度 */
+$header-height: 56px;
